@@ -1,13 +1,15 @@
 package com.udemyjavacompleto.workshop.entities;
 
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
 import com.udemyjavacompleto.workshop.utils.Utils;
 
-public class Song {
+public class Song implements Serializable {
+	private static final long serialVersionUID = 1L;
 	
 	private String _id;
 	private String artist;
