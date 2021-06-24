@@ -3,7 +3,7 @@
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td><h5>Instituição</h5></td>
-<td><h5>Udemy</h5>td>
+<td><h5>Udemy</h5><td>
 </tr>
 <tr>
 <td><h5>Professor</h5></td>
